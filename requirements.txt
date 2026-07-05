@@ -1,4 +1,0 @@
-python-telegram-bot>=21.0
-pillow>=10.0
-numpy>=1.24
-cryptography>=42.0
